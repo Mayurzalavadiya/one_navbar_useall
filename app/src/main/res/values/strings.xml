@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">App Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+
+    <string name="txt_bottom_sheet">Lorem ipsum dolor sit amet, consectetur adipiscing , Nam et pulvinar velit.\nAenean porttitor lorem pulvinar.</string>
+
+
+    <!--Common-->
+    <string name="msg_no_internet_available">Please check your internet connection!</string>
+    <string name="msg_please_try_again">Please try again</string>
+    <string name="msg_something_went_wrong_please_try_again">Something went wrong please try again.</string>
+    <string name="str_please_wait">Please wait....</string>
+    <string name="pick_image_intent_text">Choose an image</string>
+
+    <!--Common location service-->
+    <string name="no_geocoder_available">No geocoder available</string>
+    <string name="fetch_address">Fetch address</string>
+    <string name="address_found">Address found</string>
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+
+    <!-- Permissions message -->
+    <string name="msg_permission_step"><![CDATA[You can change permissions in Settings > Apps > AppName > Permissions.]]></string>
+    <string name="msg_contact_permission">Application need to access contact permission. Please allow to access Contacts.</string>
+    <string name="msg_camera_permission">Please give camera permission for click and upload image.</string>
+    <string name="msg_storage_permission">Please give permission for acess storage for select file.</string>
+    <string name="data_not_Available">Data not Available</string>
+    <string name="default_notification_channel_id"></string>
+
+
+    <string name="label_search_list_hint">Search List</string>
+</resources>
